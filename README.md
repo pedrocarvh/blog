@@ -1,4 +1,4 @@
-# Opinião Rubro-Negra Blog
+# Opinião Rubro-Negra Blog 🖤❤️📰
 
 Bem-vindo ao repositório do blog "Opinião Rubro-Negra", dedicado para minha Irmã, Giovana Airon. Este é um espaço para compartilhar opiniões, análises e notícias relacionadas ao Clube de Regatas do Flamengo.
 
@@ -19,17 +19,15 @@ Se você é um torcedor apaixonado pelo Flamengo e gostaria de contribuir com co
 3. Adicione seu conteúdo ao diretório apropriado (por exemplo, `/artigos` ou `/entrevistas`).
 4. Commit e envie um pull request.
 
-## Contato
+## Contato 📬📱
 
-- **Nome da Sua Irmã**
-  - [E-mail da Sua Irmã](mailto:email@exemplo.com)
-  - [Twitter da Sua Irmã](https://twitter.com/seuusuario)
-  - [Instagram da Sua Irmã](https://www.instagram.com/giovanairon/)
+- **Giovana Airon**
+  - [E-mail](mailto:email@exemplo.com)
+  - [Twitter](https://twitter.com/seuusuario)
+  - [Instagram](https://www.instagram.com/giovanairon/)
 
 ## Licença
 
 Este projeto é licenciado sob a [Pedro Carvalho]. Consulte o arquivo [LICENSE](LICENSE) para obter detalhes.
 
-Esperamos que você aproveite o conteúdo e compartilhe suas opiniões sobre o Mengão!
-
----
+Esperamos que você aproveite o conteúdo e compartilhe suas opiniões sobre o Mengão! 🚀🔴⚫️
